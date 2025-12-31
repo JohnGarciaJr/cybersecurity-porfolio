@@ -18,4 +18,13 @@ A Python script that takes a user’s age and outputs a message based on specifi
 - Input validation through type conversion
 - Clear, user‑friendly output
 
+3. Product Price Calculator
+A Python script that asks the user for three product names and their prices, then calculates the total and average cost. This exercise highlights:
+- Working with strings and numeric input
+- Floating‑point arithmetic
+- Using round() for currency formatting
+- Constructing formatted output with f‑string
+
+
+
 Additional foundational exercises will be added to this folder as I continue expanding my Python skills.
