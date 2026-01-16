@@ -1,6 +1,6 @@
 # Risk Heat Map  
 Version: 1.1  
-Last Updated: YYYY-MM-DD  
+Last Updated: 2026-01-10 (YYYY-MM-DD)
 
 This heat map visualizes risks based on a 5x5 likelihood and impact model commonly used in enterprise risk management programs.
 
