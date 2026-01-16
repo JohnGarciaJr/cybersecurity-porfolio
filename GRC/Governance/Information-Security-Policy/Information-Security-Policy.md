@@ -1,7 +1,7 @@
 # Information Security Policy  
 Version: 1.0  
 Owner: Information Security Governance  
-Last Updated: YYYY-MM-DD  
+Last Updated: 2025-11-20(YYYY-MM-DD)  
 
 ## 1. Purpose  
 The purpose of this Information Security Policy is to establish the principles, expectations, and responsibilities necessary to protect the confidentiality, integrity, and availability of the organization's information assets. This policy provides the foundation for all supporting standards, procedures, and guidelines within the Information Security Management System (ISMS).
