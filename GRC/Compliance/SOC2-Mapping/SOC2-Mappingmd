@@ -1,0 +1,71 @@
+# SOC 2 Trust Services Criteria (TSC) Mapping
+
+## Purpose
+This document maps organizational controls to the SOC 2 Trust Services Criteria (TSC). It demonstrates how existing policies, procedures, and technical safeguards align with SOC 2 requirements.
+
+## Scope
+This mapping covers the following SOC 2 categories:
+- Security (Common Criteria)
+- Availability
+- Confidentiality
+- Processing Integrity
+- Privacy
+
+---
+
+# 1. Security (Common Criteria)
+
+| SOC 2 Criteria | Description | Mapped Controls | Evidence |
+|----------------|-------------|-----------------|----------|
+| CC1.1 | Control environment | Information Security Policy, AUP | Policy documents |
+| CC1.2 | Board oversight | Governance structure | Meeting notes, org chart |
+| CC2.1 | Communication of responsibilities | Security Awareness One‑Pager | Training records |
+| CC3.1 | Risk assessment | Risk Register, Sample Risk Assessment | Risk documentation |
+| CC4.1 | Monitoring activities | Audit Checklist | Audit logs, reports |
+| CC5.1 | Logical access controls | MFA, least privilege | Access reviews |
+
+---
+
+# 2. Availability
+
+| SOC 2 Criteria | Description | Mapped Controls | Evidence |
+|----------------|-------------|-----------------|----------|
+| A1.1 | Availability commitments | BCP/DR Plan (future) | DR test results |
+| A1.2 | Performance monitoring | System monitoring | Logs, dashboards |
+| A1.3 | Incident handling | Incident Response Plan (future) | IR test results |
+
+---
+
+# 3. Confidentiality
+
+| SOC 2 Criteria | Description | Mapped Controls | Evidence |
+|----------------|-------------|-----------------|----------|
+| C1.1 | Confidentiality commitments | Data Classification Standard | Classification labels |
+| C1.2 | Access restrictions | Vendor Risk Assessment, AUP | Access logs |
+| C1.3 | Secure disposal | Data handling rules | Disposal logs |
+
+---
+
+# 4. Processing Integrity
+
+| SOC 2 Criteria | Description | Mapped Controls | Evidence |
+|----------------|-------------|-----------------|----------|
+| PI1.1 | System processing | Change management | Change logs |
+| PI1.2 | Input validation | Secure SDLC (future) | Test results |
+| PI1.3 | Error handling | Logging & monitoring | Error logs |
+
+---
+
+# 5. Privacy
+
+| SOC 2 Criteria | Description | Mapped Controls | Evidence |
+|----------------|-------------|-----------------|----------|
+| P1.1 | Notice | Privacy policy (future) | Public documentation |
+| P1.2 | Choice & consent | User agreements | Consent logs |
+| P1.3 | Access | Access request procedures | Ticketing system |
+| P1.4 | Disclosure | Vendor Risk Assessment | DPA documentation |
+| P1.5 | Retention | Data Classification Standard | Retention schedule |
+
+---
+
+**Last Updated:** January 2026
