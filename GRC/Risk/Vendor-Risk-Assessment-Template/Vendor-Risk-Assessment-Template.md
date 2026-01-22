@@ -134,4 +134,4 @@ If yes, list them.
 
 ---
 
-**Last Updated:** December 2026
+**Last Updated:** December 2025
