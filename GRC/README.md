@@ -9,6 +9,7 @@ Each section contains real‑world style artifacts designed to highlight systems
 
 ## 📂 Folder Structure (Visual Diagram)
 
+```
 GRC/
 ├── Governance/
 │   ├── Acceptable-Use-Policy/
@@ -27,15 +28,13 @@ GRC/
 │   └── README.md
 │
 └── Compliance/
-|   ├── NIST-CSF-Mapping/
-|   ├── SOC2-Mapping/
-|   ├── ISO27001-Mapping/
-|   ├── Audit-Checklist/
-|   └── README.md
-└── README.md
+    ├── NIST-CSF-Mapping/
+    ├── SOC2-Mapping/
+    ├── ISO27001-Mapping/
+    ├── Audit-Checklist/
+    └── README.md
+```
 
-
----
 
 ## 📁 Governance  
 Policies, standards, awareness materials, and continuity documentation that establish organizational expectations and guide secure behavior.
