@@ -20,6 +20,32 @@ This repo is organized into the three pillars of GRC.
 ```
 cybersecurity-portfolio/
 ├── GRC/
+│   ├── AI-Governance-Case-Study/
+│   │    ├── 01-System-Overview/
+│   │    │    └── System-Description.md
+│   │    │
+│   │    ├── 02-Risk-Assessment/
+│   │    │   ├── Risk-Register.md
+│   │    │   ├── Impact-Analysis.md
+│   │    │   └── Harm-Scenarios.md
+│   │    │
+│   │    ├── 03-Controls-and-Mitigations/
+│   │    │   ├── Controls-Matrix.md
+│   │    │   ├── Mitigation-Plan.md
+│   │    │   └── Governance-Control-Map.md
+│   │    │
+│   │    ├── 04-Model-Card/
+│   │    │   └── Model-Card.md
+│   │    │
+│   │    ├── 05-Policy-and-Governance/
+│   │    │   ├── Responsible-AI-Policy.md
+│   │    │   ├── Transparency-Report.md
+│   │    │   └── Human-Oversight-Plan.md
+│   │    │
+│   │    ├── 06-Final-Summary/
+│   │    │   └── Executive-Summary.md
+│   │    └── README.md
+│   │
 │   ├── Governance/
 │   │   ├── Acceptable-Use-Policy/
 │   │   │   └── Acceptable-Use-Policy.md
@@ -148,6 +174,7 @@ This repository reflects a documentation‑first approach to cybersecurity and G
 
 ## 📌 **Future Enhancements**
 Planned additions include:
+- AI Governance Case Study
 - Incident Response Plan (IRP)  
 - Control Matrix  
 - Full Business Continuity Plan  
@@ -156,4 +183,4 @@ Planned additions include:
 
 ---
 
-**Last Updated:** January 2026
+**Last Updated:** Februaury 2026
