@@ -22,7 +22,7 @@ cybersecurity-portfolio/
 ├── GRC/
 │   ├── AI-Governance-Case-Study/
 │   │    ├── 01-System-Overview/
-│   │    │    └── System-Description.md
+│   │    │   └── System-Description.md
 │   │    │
 │   │    ├── 02-Risk-Assessment/
 │   │    │   ├── Risk-Register.md
