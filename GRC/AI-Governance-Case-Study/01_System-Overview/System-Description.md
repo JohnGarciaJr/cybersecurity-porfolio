@@ -8,15 +8,15 @@ This system operates at the intersection of identity governance, biometric proce
 ## 2. Purpose and Objectives
 ### The primary objectives of the system are:
 
--Strengthen access control by verifying identity through facial biometrics
+- Strengthen access control by verifying identity through facial biometrics
 
--Reduce reliance on physical badges or shared credentials
+- Reduce reliance on physical badges or shared credentials
 
--Improve auditability and traceability of access events
+- Improve auditability and traceability of access events
 
--Provide real‑time decisioning for entry/denial
+- Provide real‑time decisioning for entry/denial
 
--Integrate with existing IAM and physical security systems
+- Integrate with existing IAM and physical security systems
 
 ### The system is intended for environments where identity assurance is critical, such as:
 
