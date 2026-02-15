@@ -64,7 +64,7 @@ GRC/
 ## 📁 AI Governance Case Study
 A full, documentation‑driven analysis of a high‑impact AI system, aligned with NIST AI RMF, Microsoft Responsible AI, and OECD principles.
 
-**Folder:**
+**Folder:**  
 👉 [AI Governance Case Study](./AI-Governance-Case-Study)
 
 **Includes:**
