@@ -149,13 +149,13 @@ Framework mappings, gap assessments, and audit preparation materials demonstrati
 
 ### **AI Governance Case Study**
 - AI Governance & Responsible AI Documentation
--- Designed and structured a full AI governance case study, including risk assessment, harm scenarios, control mapping, mitigation planning, model card creation, and policy development.
+  - Designed and structured a full AI governance case study, including risk assessment, harm scenarios, control mapping, mitigation planning, model card creation, and policy development.
 - Risk & Control Framework Alignment
--- Mapped system risks and controls to NIST AI RMF, NIST 800‑53, ISO 27001, and SOX/IAM governance standards.
+  - Mapped system risks and controls to NIST AI RMF, NIST 800‑53, ISO 27001, and SOX/IAM governance standards.
 - Technical Writing for Governance
--- Produced clear, audit‑ready documentation across the full system lifecycle, including transparency reports, oversight plans, and executive summaries.
+  - Produced clear, audit‑ready documentation across the full system lifecycle, including transparency reports, oversight plans, and executive summaries.
 - AI‑Assisted Productivity (Human‑in‑the‑Loop Drafting)
---Leveraged AI tools to accelerate drafting while maintaining ownership of structure, logic, and governance decisions.
+  - Leveraged AI tools to accelerate drafting while maintaining ownership of structure, logic, and governance decisions.
 
 ### **Governance**
 - Policy writing  
