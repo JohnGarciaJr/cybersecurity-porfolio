@@ -35,6 +35,7 @@ GRC/
 │
 │   └── 06-Final-Summary/
 │       └── Executive-Summary.md
+│   └── README.md
 │
 ├── Governance/
 │   ├── Acceptable-Use-Policy/
