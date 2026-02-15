@@ -61,6 +61,7 @@ GRC/
     └── README.md
 ```
 
+---
 
 ## 📁 AI Governance Case Study
 A full, documentation‑driven analysis of a high‑impact AI system, aligned with NIST AI RMF, Microsoft Responsible AI, and OECD principles.
@@ -76,6 +77,7 @@ A full, documentation‑driven analysis of a high‑impact AI system, aligned wi
 - [05_Policy-and-Governance](./AI-Governance-Case-Study/05_Policy-and-Governance)
 - [06_Final-Summary](./AI-Governance-Case-Study/06_Final-Summary)
 
+---
 
 ## 📁 Governance  
 Policies, standards, awareness materials, and continuity documentation that establish organizational expectations and guide secure behavior.
