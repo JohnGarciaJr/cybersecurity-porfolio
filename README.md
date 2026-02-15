@@ -115,11 +115,12 @@ cybersecurity-portfolio/
 │
 └── README.md   ← Top-level README
 ```
+---
 
 ## 🧠 **AI Governance Case Study**  
 A complete, audit‑ready governance package demonstrating AI, IAM, and GRC expertise.
 
-👉 **Folder:** [GRC/AI-Governance-Case-Study](.GRC/AI-Governance-Case-Study)
+👉 **Folder:** [GRC/AI-Governance-Case-Study](./GRC/AI-Governance-Case-Study)
 
 ---
 
