@@ -116,6 +116,11 @@ cybersecurity-portfolio/
 └── README.md   ← Top-level README
 ```
 
+## 🧠 **AI Governance Case Study**  
+A complete, audit‑ready governance package demonstrating AI, IAM, and GRC expertise.
+
+👉 **Folder:** [GRC/AI-Governance-Case-Study](.GRC/AI-Governance-Case-Study)
+
 ---
 
 ## 🏛️ **Governance**  
@@ -140,6 +145,16 @@ Framework mappings, gap assessments, and audit preparation materials demonstrati
 ---
 
 ## 🧩 **Skills Demonstrated in This Portfolio**
+
+### **AI Governance Case Study**
+- AI Governance & Responsible AI Documentation
+-- Designed and structured a full AI governance case study, including risk assessment, harm scenarios, control mapping, mitigation planning, model card creation, and policy development.
+- Risk & Control Framework Alignment
+-- Mapped system risks and controls to NIST AI RMF, NIST 800‑53, ISO 27001, and SOX/IAM governance standards.
+- Technical Writing for Governance
+-- Produced clear, audit‑ready documentation across the full system lifecycle, including transparency reports, oversight plans, and executive summaries.
+- AI‑Assisted Productivity (Human‑in‑the‑Loop Drafting)
+--Leveraged AI tools to accelerate drafting while maintaining ownership of structure, logic, and governance decisions.
 
 ### **Governance**
 - Policy writing  
@@ -174,7 +189,7 @@ This repository reflects a documentation‑first approach to cybersecurity and G
 
 ## 📌 **Future Enhancements**
 Planned additions include:
-- AI Governance Case Study
+- AI Governance Case Study **(Completed Feb 2026)**
 - Incident Response Plan (IRP)  
 - Control Matrix  
 - Full Business Continuity Plan  
