@@ -11,6 +11,31 @@ Each section contains real‑world style artifacts designed to highlight systems
 
 ```
 GRC/
+├── AI-Governance-Case-Study/
+│   ├── 01-System-Overview/
+│       └── System-Description.md
+│
+│   ├── 02-Risk-Assessment/
+│   │   ├── Risk-Register.md
+│   │   ├── Impact-Analysis.md
+│       └── Harm-Scenarios.md
+│
+│   ├── 03-Controls-and-Mitigations/
+│   │   ├── Controls-Matrix.md
+│   │   ├── Mitigation-Plan.md
+│       └── Governance-Control-Map.md
+│
+│   ├── 04-Model-Card/
+│       └── Model-Card.md
+│
+│   ├── 05-Policy-and-Governance/
+│   │   ├── Responsible-AI-Policy.md
+│   │   ├── Transparency-Report.md
+│       └── Human-Oversight-Plan.md
+│
+│   └── 06-Final-Summary/
+│       └── Executive-Summary.md
+│
 ├── Governance/
 │   ├── Acceptable-Use-Policy/
 │   ├── Data-Classification-Standard/
@@ -34,6 +59,21 @@ GRC/
     ├── Audit-Checklist/
     └── README.md
 ```
+
+
+## 📁 AI Governance Case Study
+A full, documentation‑driven analysis of a high‑impact AI system, aligned with NIST AI RMF, Microsoft Responsible AI, and OECD principles.
+
+**Folder:**
+👉 [AI Governance Case Study](./AI-Governance-Case-Study)
+
+**Includes:**
+- [01_System-Overview](./AI-Governance-Case-Study/01_System-Overview)
+- [02_Risk-Assessment](./AI-Governance-Case-Study/02_Risk-Assessment)
+- [03_Controls-and-Mitigation](./AI-Governance-Case-Study/03_Controls-and-Mitigation)
+- [04_Model-Card](./AI-Governance-Case-Study/04_Model-Card)
+- [05_Policy-and-Governance](./AI-Governance-Case-Study/05_Policy-and-Governance)
+- [06_Final-Summary](./AI-Governance-Case-Study/06_Final-Summary)
 
 
 ## 📁 Governance  
