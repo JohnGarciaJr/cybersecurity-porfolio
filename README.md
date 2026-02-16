@@ -11,7 +11,7 @@ The goal of this portfolio is to demonstrate:
 - Governance‑level policy development  
 - Audit readiness and evidence structure  
 
-This repo is organized into the three pillars of GRC.
+This repo is organized beginning with a AI Governance Case Study and the three pillars of GRC.
 
 ---
 
