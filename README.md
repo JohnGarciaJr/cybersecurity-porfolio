@@ -126,7 +126,7 @@ cybersecurity-portfolio/
 ### Oasis Infobyte Cybersecurity Internship
 Hands-on tasks including Nmap scanning, firewall configuration, and vulnerability analysis.
 
-🔗 [View Internship Project](./Projects/Oasis-Infobyte-Internship)
+🔗 [View Internship Repository](https://github.com/JohnGarciaJr/oasis-infobyte-cybersecurity-internship)
 
 ---
 
