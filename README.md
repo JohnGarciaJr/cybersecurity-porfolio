@@ -84,6 +84,10 @@ cybersecurity-portfolio/
 │       │   └── Audit-Checklist.md
 │       └── README.md
 │
+├── Projects/
+|        ├── Oasis-Inforbyte-Internship/
+│        │   └── README.md
+|
 ├── cybersecurity-labs/
 |        ├── botim-toys-audit/
 │        │   └── Botium Toys_ Scope, goals, and risk assessment report.pdf
@@ -115,6 +119,15 @@ cybersecurity-portfolio/
 │
 └── README.md   ← Top-level README
 ```
+---
+
+## 🛡️ Projects
+
+### Oasis Infobyte Cybersecurity Internship
+Hands-on tasks including Nmap scanning, firewall configuration, and vulnerability analysis.
+
+🔗 [View Internship Project](./Projects/Oasis-Infobyte-Internship)
+
 ---
 
 ## 🧠 **AI Governance Case Study**  
