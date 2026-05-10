@@ -4,6 +4,9 @@
 This repository contains all tasks, projects, and documentation completed during the Synent Technologies Python Development Internship, part of the AICTE/MSME Fellowship Program.
 Each task is organized into its own modular folder with clean Python code, structured READMEs, and supporting artifacts.
 
+🔗 **Full Internship Repository:**  
+[View Repository](https://github.com/JohnGarciaJr/synent-internship)
+
 ---
 
 ## 📁 Repository Structure
