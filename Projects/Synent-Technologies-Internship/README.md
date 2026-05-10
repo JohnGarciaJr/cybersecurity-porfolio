@@ -46,12 +46,6 @@ synent-internship/
 ├── LICENSE
 └── README.md   ← (this file)
 ```
-## 🔗 Quick Navigation
-
-- [Task 6 — Weather App](./synent-task6-weatherapp-johnhenrygarciajr/README.md)
-- [Task 8 — Web Scraper](./synent-task8-webscraper-johnhenrygarciajr/README.md)
-- [Task 9 — Task Manager Web App](./synent-task9-taskmanager-johnhenrygarciajr/README.md)
-
 ---
 
 ## 🧩 What Each Task Folder Includes
