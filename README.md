@@ -128,6 +128,11 @@ Hands-on tasks including Nmap scanning, firewall configuration, and vulnerabilit
 
 🔗 [View Internship Repository](https://github.com/JohnGarciaJr/oasis-infobyte-cybersecurity-internship)
 
+### Synent Technologies Python Development Internship
+Hands‑on Python tasks including scripting, automation, and full‑stack development.
+
+🔗 [View Internship Repository](https://github.com/JohnGarciaJr/synent-internship)
+
 ---
 
 ## 🧠 **AI Governance Case Study**  
