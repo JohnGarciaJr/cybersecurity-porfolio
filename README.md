@@ -86,7 +86,37 @@ cybersecurity-portfolio/
 │
 ├── Projects/
 |        ├── Oasis-Inforbyte-Internship/
-│        │   └── README.md
+|        │   └── README.md
+|        ├── synent-internship/
+|        │    └── synent-task6-weatherapp-johnhenrygarciajr/
+│        │        └── src/
+│        |        |   └── weather.py
+│        |        └── README.md
+│        │    └── synent-task8-webscraper-johnhenrygarciajr/
+│        |        └── src/
+│        |        │   └── scraper.py
+│        |        └── README.md
+│        │    └── synent-task9-taskmanager-johnhenrygarciajr/
+│        │    │   ├── static/
+│        │    │   │   └── style.css
+│        │    │   ├── templates/
+│        │    │   │   ├── 403.html
+│        │    │   │   ├── 404.html
+│        │    │   │   ├── 500.html
+│        │    │   │   ├── add_task.html
+│        │    │   │   ├── base.html
+│        │    │   │   ├── dashboard.html
+│        │    │   │   ├── edit_task.html
+│        │    │   │   ├── login.html
+│        │    │   │   └── register.html
+│        │    │   ├── app.py
+│        │    │   ├── database.db
+│        │    │   ├── models.py
+│        │    │   ├── schema.sql
+│        │    │   └── README.md
+│        │    ├── .gitignore
+│        │    ├── LICENSE
+│        │    └── README.md 
 |
 ├── cybersecurity-labs/
 |        ├── botim-toys-audit/
