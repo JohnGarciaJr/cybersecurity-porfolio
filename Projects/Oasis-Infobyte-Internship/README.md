@@ -74,6 +74,15 @@ This repository is structured to meet those requirements with:
 
 ---
 
+## 📬 Contact / Updates
+
+This repository will be updated daily as tasks are completed.  
+Each task folder includes its own documentation and execution notes.
+
+Reach me here: jhgarci4@asu.edu
+
+---
+
 ## 📹 Demo Videos
 
 Demo videos for practical tasks (Nmap, UFW, DVWA, Nikto, Wireshark) will be added to my LinkedIn page & YouTube channel as they are completed.
