@@ -1,0 +1,133 @@
+# Phishing Awareness Training — Sample Email Set & Answer Key
+
+This set is designed for a "Spot the Phish" exercise: present the samples to trainees without labels, have them mark each as **Phishing** or **Legitimate** and identify the red flags, then reveal the answer key.
+
+All company names, sender addresses, and scenarios below are fictional and created for training purposes only.
+
+---
+
+## Sample 1
+
+**From:** IT-Support@corp-helpdesk-secure.com
+**Subject:** URGENT: Your password expires in 2 hours
+
+> Dear User,
+>
+> Our records show your network password will expire today. Failure to update your password within 2 hours will result in account suspension.
+>
+> Click here to verify your identity and reset your password: [Update Password Now]
+>
+> IT Help Desk
+
+**Answer: PHISHING**
+Red flags:
+- Sender domain (`corp-helpdesk-secure.com`) doesn't match a real internal domain — look-alike domain
+- Generic "Dear User" greeting
+- Manufactured urgency (2-hour deadline)
+- Direct request to click a link and enter credentials
+
+---
+
+## Sample 2
+
+**From:** Sarah Chen (schen@yourcompany.com)
+**Subject:** Q3 budget review — quick question before tomorrow
+
+> Hi team,
+>
+> Before our 10am tomorrow, can someone confirm the updated travel budget figure from last week's spreadsheet? Want to make sure I present the right number.
+>
+> Thanks,
+> Sarah
+
+**Answer: LEGITIMATE**
+Why: Internal domain matches company, no links/attachments, no urgency manipulation, references a specific real, verifiable internal context (a meeting, a shared spreadsheet) rather than a generic threat.
+
+---
+
+## Sample 3
+
+**From:** Payroll Dept (payroll-updates@empl0yee-portal.net)
+**Subject:** Direct Deposit Change Confirmation Needed
+
+> Your direct deposit information was recently changed. If this wasn't you, click below to review and restore your original banking details within 24 hours or your next paycheck may be delayed.
+>
+> [Review My Account]
+
+**Answer: PHISHING**
+Red flags:
+- Domain uses a zero for "o" (`empl0yee-portal.net`) — classic look-alike domain trick
+- Urgency/fear (paycheck delay threat)
+- Sensitive request (banking details) via unsolicited email link
+
+---
+
+## Sample 4
+
+**From:** Marcus Webb, VP Finance (mwebb@yourcompany.com)
+**Subject:** Need this handled quietly and quickly
+
+> I'm in back-to-back meetings and can't talk. I need you to purchase $500 in gift cards for a client appreciation gesture and send me the codes ASAP. Reimbursement will be processed this week. Don't loop in anyone else on this — I want to keep it low-key until the announcement.
+
+**Answer: PHISHING (Business Email Compromise / Whaling-style)**
+Red flags:
+- Urgency plus secrecy ("don't loop in anyone else") — a major warning sign, since legitimate business requests rarely require concealment from coworkers
+- Unusual request (gift cards) — a very common BEC pattern
+- Executive impersonation pressuring quick action while claiming to be unreachable for verification
+- Correct response: verify via a separate channel (call the VP directly using a known number) before acting, regardless of how convincing the tone is
+
+---
+
+## Sample 5
+
+**From:** DeliveryTrack Notifications (no-reply@deliverytrack-status.com)
+**Subject:** We couldn't deliver your package
+
+> Your package could not be delivered due to an incomplete address. Please confirm your delivery details within 48 hours to avoid return-to-sender.
+>
+> [Confirm Delivery Details]
+
+**Answer: PHISHING**
+Red flags:
+- Vague sender (no specific carrier named, generic domain)
+- No tracking number or order reference included, despite claiming to be about a specific delivery
+- Urgency (48-hour window)
+- Link-first call to action with no other way to verify
+
+---
+
+## Sample 6
+
+**From:** Facilities Team (facilities@yourcompany.com)
+**Subject:** Reminder: Parking garage maintenance this Saturday
+
+> Hi all,
+>
+> Quick reminder that the west parking garage will be closed for maintenance this Saturday from 8am–2pm. Please use the east lot during this window. Questions can go to facilities@yourcompany.com or ext. 4521.
+>
+> Thanks,
+> Facilities Team
+
+**Answer: LEGITIMATE**
+Why: Internal domain, no request for action beyond reading, no links, no credentials/payment involved, plausible routine internal communication with a real internal extension for follow-up.
+
+---
+
+## Answer Key Summary Table
+
+| Sample | Verdict | Primary Red Flag |
+|---|---|---|
+| 1 | Phishing | Look-alike domain + urgency |
+| 2 | Legitimate | Internal domain, specific context, no ask |
+| 3 | Phishing | Look-alike domain + sensitive data request |
+| 4 | Phishing (BEC) | Secrecy + urgency + gift card request |
+| 5 | Phishing | Vague sender, no order reference, urgency |
+| 6 | Legitimate | Internal domain, routine info, no action needed |
+
+---
+
+## Notes for Use
+
+- Recommend running this as a blind exercise first (no labels shown), scoring each participant, then reviewing the answer key as a group discussion — this reinforces the reasoning process, not just the "right answer."
+- For your GitHub portfolio, you could accompany this with a short write-up describing how you'd use a real tool (e.g., a phishing simulation platform) to run this at scale, track click-through/report rates, and report results to leadership as a control-effectiveness metric.
+- All content here is original and fictional, created for training/demonstration purposes — worth noting explicitly in your repo README so it reads clearly as a self-built portfolio exercise rather than material lifted from an employer or vendor's proprietary training program.
