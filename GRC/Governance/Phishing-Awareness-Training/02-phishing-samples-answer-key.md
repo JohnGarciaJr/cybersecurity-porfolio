@@ -1,4 +1,5 @@
-# Phishing Awareness Training — Sample Email Set & Answer Key
+# Phishing Awareness Training
+### Sample Email Set & Answer Key
 
 This set is designed for a "Spot the Phish" exercise: present the samples to trainees without labels, have them mark each as **Phishing** or **Legitimate** and identify the red flags, then reveal the answer key.
 
