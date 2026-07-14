@@ -18,7 +18,7 @@ D. To test employee typing speed
 **2. True or False: Phishing attacks only happen through email.**
 
 ***Your Answer:***
-  
+<br><br>
   
 ---
 
@@ -55,7 +55,7 @@ D. Forward the gift card codes once purchased, then ask questions later
 **6. True or False: If you already clicked a suspicious link or entered your password, you should stay quiet about it to avoid getting in trouble.**
 
 ***Your Answer:***  
-  
+<br><br>
 
 ---
 
@@ -76,5 +76,4 @@ C. Do not click, reply, or download anything — report it through the official 
 D. Delete it immediately with no further action  
 
 ***Your Answer:***
-
----
+<br><br>

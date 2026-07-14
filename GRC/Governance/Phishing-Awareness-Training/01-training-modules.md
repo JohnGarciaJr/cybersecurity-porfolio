@@ -95,5 +95,5 @@ See companion file `03-knowledge-check.md` for a formatted 8-question quiz with 
 ## Notes for Portfolio Presentation
 
 - This is designed to demonstrate **security awareness program design**, one of the practical skill areas GRC/analyst roles look for beyond framework/control mapping.
-- Pair this with the phishing sample set (`02-phishing-samples-answer-key.md`) and, if you want to go further, a one-page "training effectiveness metrics" template showing how you'd measure click-rate reduction and reporting-rate increase over time.
+- Pair this with the phishing sample set 02-phishing-samples-answer-key.md and, if you want to go further, a one-page "training effectiveness metrics" template showing how you'd measure click-rate reduction and reporting-rate increase over time.
 - Consider explicitly noting in your README that this is an original training deliverable you built for portfolio purposes, not sourced from a specific employer's proprietary program — that keeps things clean for public GitHub posting.
